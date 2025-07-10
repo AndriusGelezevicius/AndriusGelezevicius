@@ -34,4 +34,4 @@ I'm a beginner QA automation learner focused on **test automation, Python, and w
 ## Contact
 
 - Email: andriusgelezevicius@gmail.com
-- [Download my CV (PDF)]([https://drive.google.com/file/d/ID_CIA/pdf](https://drive.google.com/file/d/1f-Q7uHEvm9PfZghFxWKR5sdenG50_J4Y/view?usp=drive_link))
+- My resume: [andrius_gelezevicius_cv](https://drive.google.com/file/d/1f-Q7uHEvm9PfZghFxWKR5sdenG50_J4Y/view?usp=drive_link)
